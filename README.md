@@ -76,9 +76,9 @@ Class 5: Very high engagement, possibly including users who consume a lot of dat
 
  ![image](https://github.com/user-attachments/assets/98c17290-3e23-46d7-90d3-100eee880cae) <br>
 
- #### Observations from the Heatmap: <br>
+ ### Observations from the Heatmap: <br>
  
-#### High Correlations: <br>
+### High Correlations: <br>
 
 #### 1.App Usage Time vs. Screen On Time (0.95): <br>
  Strong positive correlation indicates that users who spend more time on apps also have higher overall screen-on time. <br>
@@ -100,7 +100,7 @@ Class 5: Very high engagement, possibly including users who consume a lot of dat
  Longer screen-on time contributes significantly to higher battery usage. <br>
 #### Insight: Power-saving features can focus on screen efficiency, such as dimming brightness or reducing screen-on time for idle periods. <br> 
 
-#### Low/No Correlation:  <br>
+### Low/No Correlation:  <br>
 
 #### 1.Age vs. App Usage Time (0.00):
   No correlation suggests that app usage time is independent of age. <br>
@@ -109,13 +109,14 @@ Class 5: Very high engagement, possibly including users who consume a lot of dat
 #### 2.Age vs. Data Usage (0.00): <br>
 #### Similarly, no relationship exists between age and data usage, highlighting behavior over demographics as the primary factor.  <br>
 
-#### Moderate Correlations: <br> 
+### Moderate Correlations: <br> 
 
 #### 1.Number of Apps Installed vs. App Usage Time (0.96):  <br>
  A positive correlation implies that users with more apps installed tend to use their devices more actively.  <br>
 #### Insight: Encouraging users to install more apps could lead to greater device engagement. <br>
 
- ![image](https://github.com/user-attachments/assets/74fc817a-855f-47ff-a01c-5380be2d790c)
+ ![image](https://github.com/user-attachments/assets/74fc817a-855f-47ff-a01c-5380be2d790c)  <br>
+ 
 
 
 
