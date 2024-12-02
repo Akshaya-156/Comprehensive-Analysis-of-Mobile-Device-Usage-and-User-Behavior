@@ -30,4 +30,12 @@ The dataset contains data about user behavior and smartphone usage patterns. Her
 10.Gender: The gender of the user (string, typically "Male" or "Female"). <br>
 11.User Behavior Class: A categorical class representing user behavior (integer values from 1 to 5). <br>
 
+### STATISTICAL INSIGHTS : <br>
+#### It is a cleaned dataset <br>
+1.App Usage Time and Screen On Time have a wide range, with some users having significantly higher usage than others. <br>
+2..Battery Drain also shows a wide spread, with users consuming a large range of battery levels. <br>
+3.The Age of users varies between 18 and 59, with a mean age of 38, indicating a fairly broad age range. <br>
+4.The Number of Apps Installed and Data Usage values also show considerable variability across users. <br>
+5.The User Behavior Class provides a categorical classification that likely represents different patterns of behavior, though its exact meaning would require further exploration. <br>
+
 
