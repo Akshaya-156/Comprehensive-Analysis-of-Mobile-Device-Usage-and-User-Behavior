@@ -33,7 +33,7 @@ Class 1: Low engagement or usage.<br>
 Class 2-3: Moderate engagement or average usage patterns.<br>
 Class 4: High engagement, possibly power users or frequent app users.<br>
 Class 5: Very high engagement, possibly including users who consume a lot of data, have many apps installed, and spend a lot of time on their devices. <br>
-
+### EXPLORATORY DATA ANALYSIS: <br>
 ### STATISTICAL INSIGHTS : <br>
 #### It is a cleaned dataset <br>
 #### 1.App Usage Time and Screen On Time have a wide range, with some users having significantly higher usage than others. <br>
@@ -47,6 +47,36 @@ Class 5: Very high engagement, possibly including users who consume a lot of dat
   4.1.Range: The minimum is 10 apps, and the maximum is 99 apps.
 #### 5.The User Behavior Class provides a categorical classification that likely represents different patterns of behavior, though its exact meaning would require further exploration. <br>
  5.1.Range: The classes range from 1 to 5.
+ ### DATA VISUALIZATION : <br>
+#### Insights from Each Plot <br>
+
+#### App Usage Time (min/day):<br>
+#### 1.Peaks at around 100–200 minutes, indicating most users spend about 1.5 to 3 hours daily on apps. <br>
+#### 2.Distribution has a long tail, suggesting some users spend significantly more time. <br>
+
+#### Screen On Time (hours/day):<br>
+#### 1.Most users have 2–4 hours of screen-on time per day. <br>
+#### 2.Declines after 4 hours, with fewer users spending 8–12 hours on their devices. <br>
+
+#### Battery Drain (mAh/day): <br>
+#### 1.A significant portion of users experience 500–1000 mAh battery drain per day. <br>
+#### 2.The distribution is slightly right-skewed, implying some users have higher battery drain, likely due to heavy usage. <br>
+
+#### Data Usage (MB/day): <br>
+#### 1.Peaks at 0–500 MB/day, suggesting most users are light to moderate data consumers. <br>
+#### 2.Some users consume upwards of 2000 MB/day. <br>
+
+#### Number of Apps Installed: <br>
+#### 1.Distribution is fairly uniform, with a slight peak at around 20–40 apps. <br>
+#### 2.Indicates diverse user behaviors regarding app installations. <br>
+
+#### Age: <br>
+#### 1.Relatively uniform distribution across all age groups. <br>
+#### 2.Minor peaks in the 20s and 50s suggest higher representation of younger and middle-aged users. <br>
+
+ ![image](https://github.com/user-attachments/assets/98c17290-3e23-46d7-90d3-100eee880cae)
+
  
+
 
 
