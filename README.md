@@ -80,40 +80,41 @@ Class 5: Very high engagement, possibly including users who consume a lot of dat
  
 #### High Correlations: <br>
 
-#### App Usage Time vs. Screen On Time (0.95): <br>
-#### Strong positive correlation indicates that users who spend more time on apps also have higher overall screen-on time. <br>
+#### 1.App Usage Time vs. Screen On Time (0.95): <br>
+ Strong positive correlation indicates that users who spend more time on apps also have higher overall screen-on time. <br>
 #### Insight: These two metrics are tightly linked, so app usage heavily influences total screen-on time. <br>
 
-#### App Usage Time vs. Battery Drain (0.96): <br>
-#### App usage has a strong impact on battery consumption. <br>
+#### 2.App Usage Time vs. Battery Drain (0.96): <br>
+ App usage has a strong impact on battery consumption. <br>
 #### Insight: Heavy app users likely face battery drain issues, and optimizations can focus on app resource consumption. <br>
 
-#### App Usage Time vs. Data Usage (0.94): <br>
-#### Positive correlation suggests that increased app usage leads to more data consumption. <br>
+#### 3.App Usage Time vs. Data Usage (0.94): <br>
+ Positive correlation suggests that increased app usage leads to more data consumption. <br>
 #### Insight: Heavy app users also consume more mobile data. This is useful for telecom companies and app developers in providing data-usage alerts or saving features.  <br>
 
-#### Battery Drain vs. User Behavior Class (0.98): <br>
-#### A very high correlation suggests that user behavior class is a strong predictor of battery consumption. <br>
+#### 4.Battery Drain vs. User Behavior Class (0.98): <br>
+ A very high correlation suggests that user behavior class is a strong predictor of battery consumption. <br>
 #### Insight: Behavior classes (e.g., high usage categories) can directly help in modeling battery drain. <br>
 
-#### Screen On Time vs. Battery Drain (0.95): <br>
-#### Longer screen-on time contributes significantly to higher battery usage. <br>
+#### 5.Screen On Time vs. Battery Drain (0.95): <br>
+ Longer screen-on time contributes significantly to higher battery usage. <br>
 #### Insight: Power-saving features can focus on screen efficiency, such as dimming brightness or reducing screen-on time for idle periods. <br> 
 
 #### Low/No Correlation:  <br>
 
-#### Age vs. App Usage Time (0.00):
- #### No correlation suggests that app usage time is independent of age. <br>
+#### 1.Age vs. App Usage Time (0.00):
+  No correlation suggests that app usage time is independent of age. <br>
 #### Insight: Usage patterns are not influenced by the age of the user. Marketing and app personalization should focus on behavior rather than demographics. <br>
 
-#### Age vs. Data Usage (0.00): <br>
+#### 2.Age vs. Data Usage (0.00): <br>
 #### Similarly, no relationship exists between age and data usage, highlighting behavior over demographics as the primary factor.  <br>
 
 #### Moderate Correlations: <br> 
 
-#### Number of Apps Installed vs. App Usage Time (0.96):  <br>
-#### A positive correlation implies that users with more apps installed tend to use their devices more actively.  <br>
+#### 1.Number of Apps Installed vs. App Usage Time (0.96):  <br>
+ A positive correlation implies that users with more apps installed tend to use their devices more actively.  <br>
 #### Insight: Encouraging users to install more apps could lead to greater device engagement. <br>
+
  ![image](https://github.com/user-attachments/assets/74fc817a-855f-47ff-a01c-5380be2d790c)
 
 
